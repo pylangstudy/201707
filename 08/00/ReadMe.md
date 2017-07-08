@@ -28,8 +28,8 @@
         * [array](https://docs.python.jp/3/library/array.html#module-array)
         * [collections](https://docs.python.jp/3/library/collections.html#module-collections)モジュール参照
 * 集合型
-    * [set](https://docs.python.jp/3/library/stdtypes.html#set)|
-    * [frozenset](https://docs.python.jp/3/library/stdtypes.html#frozenset)|[ハッシュ可能](https://docs.python.jp/3/glossary.html#term-hashable) (別の集合型の要素や辞書のキーにできる)
+    * [set](https://docs.python.jp/3/library/stdtypes.html#set)
+    * [frozenset](https://docs.python.jp/3/library/stdtypes.html#frozenset)
 * マッピング型
     * dictionary
 * [呼び出し可能型](https://docs.python.jp/3/reference/expressions.html#calls)
@@ -56,7 +56,7 @@
     * クラスのインスタンス
 * カスタムクラス型
 * クラスインスタンス
-* I/O オブジェクト|[file-object](https://docs.python.jp/3/glossary.html#term-file-object)
+* I/O オブジェクト
 * 内部型
     * [bytecode](https://docs.python.jp/3/glossary.html#term-bytecode)
     * フレームオブジェクト

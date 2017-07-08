@@ -17,7 +17,7 @@
         * [bool](https://docs.python.jp/3/library/functions.html#bool)
     * [numbers.Real](https://docs.python.jp/3/library/numbers.html#numbers.Real) ([float](https://docs.python.jp/3/library/functions.html#float))
     * [numbers.Complex](https://docs.python.jp/3/library/numbers.html#numbers.Complex) ([complex](https://docs.python.jp/3/library/functions.html#complex))
-シーケンス型
+* シーケンス型
     * immutable
         * string
         * tuple
@@ -65,6 +65,8 @@
     * [静的メソッドオブジェクト](https://docs.python.jp/3/library/functions.html#staticmethod)
     * [クラスメソッドオブジェクト](https://docs.python.jp/3/library/functions.html#classmethod)
 
+## 所感
+
 以下、とくに意味不明だったもの。
 
 * `__closure__`
@@ -79,4 +81,4 @@
     * 何をするための概念なのか
         * 使いどころはいつか
 
-リンク先をみてみると、これから学習することになっている。わからないまま放置して進める。
+リンク先をみてみると、これから学習することになっている。わからないまま放置して進めることにする。

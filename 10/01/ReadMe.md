@@ -9,7 +9,7 @@
 * [__del__()](https://github.com/pylangstudy/201707/blob/master/10/01/02/ReadMe.md)
 * [__repr__()](https://github.com/pylangstudy/201707/blob/master/10/01/03/ReadMe.md)
 * [__str__()](https://github.com/pylangstudy/201707/blob/master/10/01/04/ReadMe.md)
-* [__bytes__()]()
+* [__bytes__()](https://github.com/pylangstudy/201707/blob/master/10/01/05/ReadMe.md)
 * [__format__()]()
 * 拡張比較メソッド
     * [__lt__()]() `<`

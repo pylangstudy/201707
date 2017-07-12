@@ -4,10 +4,10 @@
 
 ## 一覧
 
-* [__new__()](https://github.com/pylangstudy/201707/blob/master/09/01/00/ReadMe.md)
-* [__init__()](https://github.com/pylangstudy/201707/blob/master/09/01/01/ReadMe.md)
-* [__del__()]()
-* [__repr__()]()
+* [__new__()](https://github.com/pylangstudy/201707/blob/master/10/01/00/ReadMe.md)
+* [__init__()](https://github.com/pylangstudy/201707/blob/master/10/01/01/ReadMe.md)
+* [__del__()](https://github.com/pylangstudy/201707/blob/master/10/01/02/ReadMe.md)
+* [__repr__()](https://github.com/pylangstudy/201707/blob/master/10/01/03/ReadMe.md)
 * [__str__()]()
 * [__bytes__()]()
 * [__format__()]()

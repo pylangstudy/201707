@@ -18,8 +18,8 @@
     * __ne__() `!=`
     * __gt__() `>`
     * __ge__() `>=`
-* [__hash__()]()
-* [__bool__()]()
+* [__hash__()](https://github.com/pylangstudy/201707/blob/master/10/01/08/ReadMe.md)
+* [__bool__()](https://github.com/pylangstudy/201707/blob/master/10/01/09/ReadMe.md)
 
 ## 所感
 

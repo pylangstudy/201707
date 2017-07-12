@@ -8,7 +8,7 @@
 * [__init__()](https://github.com/pylangstudy/201707/blob/master/10/01/01/ReadMe.md)
 * [__del__()](https://github.com/pylangstudy/201707/blob/master/10/01/02/ReadMe.md)
 * [__repr__()](https://github.com/pylangstudy/201707/blob/master/10/01/03/ReadMe.md)
-* [__str__()]()
+* [__str__()](https://github.com/pylangstudy/201707/blob/master/10/01/04/ReadMe.md)
 * [__bytes__()]()
 * [__format__()]()
 * 拡張比較メソッド

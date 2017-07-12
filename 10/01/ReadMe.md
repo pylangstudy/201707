@@ -11,13 +11,13 @@
 * [__str__()](https://github.com/pylangstudy/201707/blob/master/10/01/04/ReadMe.md)
 * [__bytes__()](https://github.com/pylangstudy/201707/blob/master/10/01/05/ReadMe.md)
 * [__format__()](https://github.com/pylangstudy/201707/blob/master/10/01/06/ReadMe.md)
-* 拡張比較メソッド
-    * [__lt__()]() `<`
-    * [__le__()]() `<=`
-    * [__eq__()]() `==`
-    * [__ne__()]() `!=`
-    * [__gt__()]() `>`
-    * [__ge__()]() `>=`
+* [拡張比較メソッド](https://github.com/pylangstudy/201707/blob/master/10/01/07/ReadMe.md)
+    * __lt__() `<`
+    * __le__() `<=`
+    * __eq__() `==`
+    * __ne__() `!=`
+    * __gt__() `>`
+    * __ge__() `>=`
 * [__hash__()]()
 * [__bool__()]()
 

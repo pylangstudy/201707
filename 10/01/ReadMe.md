@@ -10,7 +10,7 @@
 * [__repr__()](https://github.com/pylangstudy/201707/blob/master/10/01/03/ReadMe.md)
 * [__str__()](https://github.com/pylangstudy/201707/blob/master/10/01/04/ReadMe.md)
 * [__bytes__()](https://github.com/pylangstudy/201707/blob/master/10/01/05/ReadMe.md)
-* [__format__()]()
+* [__format__()](https://github.com/pylangstudy/201707/blob/master/10/01/06/ReadMe.md)
 * 拡張比較メソッド
     * [__lt__()]() `<`
     * [__le__()]() `<=`

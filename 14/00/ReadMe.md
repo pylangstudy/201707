@@ -6,7 +6,7 @@
 
 * [__getattr__(self, name)](https://github.com/pylangstudy/201707/blob/master/14/00/00/ReadMe.md)
 * [__getattribute__(self, name)](https://github.com/pylangstudy/201707/blob/master/14/00/01/ReadMe.md)
-* [__setattr__(self, name, value)]()
+* [__setattr__(self, name, value)](https://github.com/pylangstudy/201707/blob/master/14/00/02/ReadMe.md)
 * [__delattr__(self, name)]()
 * [__dir__(self)]()
 

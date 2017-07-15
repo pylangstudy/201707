@@ -6,10 +6,10 @@
 
 ## 一覧
 
-* [__get__(self, instance, owner)](https://github.com/pylangstudy/201707/blob/master/15/00/00/ReadMe.md)
-* [__set__(self, instance, value)](https://github.com/pylangstudy/201707/blob/master/15/00/01/ReadMe.md)
-* [__delete__(self, instance)](https://github.com/pylangstudy/201707/blob/master/15/00/02/ReadMe.md)
-* [__set_name__(self, owner, name)](https://github.com/pylangstudy/201707/blob/master/15/00/03/ReadMe.md)
+* [__get__(self, instance, owner)](https://docs.python.jp/3/reference/datamodel.html#object.__get__)
+* [__set__(self, instance, value)](https://docs.python.jp/3/reference/datamodel.html#object.__set__)
+* [__delete__(self, instance)](https://docs.python.jp/3/reference/datamodel.html#object.__delete__)
+* [__set_name__(self, owner, name)](https://docs.python.jp/3/reference/datamodel.html#object.__set_name__)
 
 ## __objclass__ 属性
 

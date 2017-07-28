@@ -1,0 +1,10 @@
+#class type(object)(原文)
+#class type(name, bases, dict)
+print(type(100))
+print(type('a'))
+class A: pass
+print(type(A()))
+B = type('B', (object,), dict(v=100, show=lambda: print('show!')))
+print(B)
+print(B.v)
+B.show()

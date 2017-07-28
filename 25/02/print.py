@@ -1,0 +1,13 @@
+# print(*objects, sep=' ', end='\n', file=sys.stdout, flush=False)
+print('abc')
+print(123)
+print(range(5))
+print(1,2,3)
+print(1,2,3, sep=', ')
+print(*[1,2,3], sep=', ')
+print('abc', 'def', end='<END>\n')
+with open('print_write.txt', '+w') as f:
+#    f.write('print_write.txt')
+    print('print_write.txt', file=f)
+    print(f.read())
+print(flush=True)

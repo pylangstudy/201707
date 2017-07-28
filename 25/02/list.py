@@ -1,0 +1,8 @@
+# class list([iterable])
+print(list('abc'))
+print(list((1,2,3)))
+print(list({'k0':0, 'k1':1}))
+print(list(iter([1,2,3])))
+print(list(range(5)))
+print(list(set([1,2])))
+print(list(frozenset([1,2])))

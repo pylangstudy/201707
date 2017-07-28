@@ -1,0 +1,7 @@
+#class float([x])
+print(float())
+print(float('-1.23'))
+print(float('+12.3'))
+print(float('Infinity'))
+print(float('inf'))
+print(float('nan'))

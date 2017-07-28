@@ -1,0 +1,2 @@
+#locals()
+print(locals())
